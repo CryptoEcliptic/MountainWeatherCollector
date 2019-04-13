@@ -1,0 +1,112 @@
+[
+  {
+    "Date": "06/04/2019 13:29",
+    "Temperature": 7.2,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 841.0,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "06/04/2019 16:48",
+    "Temperature": 7.6,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 840.9,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "07/04/2019 07:08",
+    "Temperature": 3.0,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 839.0,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "08/04/2019 07:57",
+    "Temperature": 4.6,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 836.4,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "08/04/2019 14:39",
+    "Temperature": 7.8,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 835.9,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "09/04/2019 08:20",
+    "Temperature": 4.2,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 832.2,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "10/04/2019 07:50",
+    "Temperature": 1.9,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 834.6,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "10/04/2019 19:21",
+    "Temperature": 3.7,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 836.7,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "11/04/2019 08:43",
+    "Temperature": 3.5,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 837.0,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "11/04/2019 18:30",
+    "Temperature": 4.1,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 838.3,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  },
+  {
+    "Date": "12/04/2019 07:57",
+    "Temperature": 2.8,
+    "Real Feeling": null,
+    "WindSpeed": null,
+    "Humidity": null,
+    "AirPressure": 840.1,
+    "Freezing altitude": null,
+    "WeatherStation": "Taja_Hut"
+  }
+]
