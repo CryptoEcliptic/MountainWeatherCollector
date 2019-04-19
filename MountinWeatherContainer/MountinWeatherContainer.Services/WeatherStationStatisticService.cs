@@ -2,7 +2,7 @@
 {
     using MountinWeatherContainer.Data;
     using MountinWeatherContainer.Services.Contracts;
-    using MountinWeatherContainer.Services.DTOs;
+    using MountinWeatherContainer.Services.DTOs.ExportDtos;
     using MountinWeatherContainer.Services.ServiceExceptionMessages;
     using Newtonsoft.Json;
     using System;

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace MountinWeatherContainer.Services.DTOs
+namespace MountinWeatherContainer.Services.DTOs.ExportDtos
 {
     public class WeatherStatisticDto
     {

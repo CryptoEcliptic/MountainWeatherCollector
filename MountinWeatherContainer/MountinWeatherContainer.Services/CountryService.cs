@@ -25,13 +25,16 @@
                 throw new ArgumentException(String.Format(ServiceExceptionMessage.ExistingCountry, name));
             }
 
-            Country country = new Country()
+            if (AttribureValidator.IsValid(name))
             {
-                Name = name
-            };
+                Country country = new Country()
+                {
+                    Name = name
+                };
 
-            this.context.Countries.Add(country);
-            this.context.SaveChanges();
+                this.context.Countries.Add(country);
+                this.context.SaveChanges();
+            }
         }
 
         public bool Exists(string name)
